@@ -6,8 +6,8 @@ Perfis que o Wesley usa como referência de tema e estilo (pesquisar o que estã
 - Ecommerce Puro — e-commerce e marketplaces
 - Gabriel Bollico — empresário de e-commerce (ShopB)
 - Alfredo Soares — vendas, varejo, empreendedorismo
-- Himmel Corp — (confirmar @)
-- Diego Rosa — (confirmar @)
+- Himmel Corp — @himmelcorp
+- Dhiego Rosa — @dhiegorosa
 
 ## Temas
 E-commerce, negócios, novidades, tecnologia, marketplaces (Mercado Livre, Shopee, Amazon, TikTok Shop).
