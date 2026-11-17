@@ -40,3 +40,10 @@ E-commerce, negócios, novidades, tecnologia, marketplaces (Mercado Livre, Shope
 - Imagem em vários slides do mesmo carrossel quando cada slide fala de um objeto diferente.
 - No nosso: objetos genéricos SEM marca/logo visível; não usar cédula real nem capa de jogo/produto de marca.
 - Texto um pouco maior quando o slide tem só 1 frase; imagem ocupando ~40% da altura do slide.
+
+## Como gerar a ilustração em alta (pipeline testado em 17/11)
+1. Canva `generate-image` com prompt: "<objeto>, estilo foto realista de produto, isolado em fundo branco puro, sem texto, sem logos".
+2. O resultado vem em miniatura; para alta resolução: no design auxiliar do Canva DAHbHmz_oCw, `read-design` (open_transaction) → `edit-design-v2` com `add_page` (tamanho da imagem, fundo branco) → `add_image` com o media_id ocupando a página → commit → `export-design` PNG só dessa página → baixar o link (export-download.canva.com) com curl.
+3. Depois de baixar, remover a página auxiliar (remove_page) pra não acumular.
+4. Recortar o fundo branco excedente (PIL) e passar a imagem em base64 no campo "visual" do post.json (<img src='data:image/png;base64,...' style='width:100%;max-height:520px;object-fit:contain'>).
+5. Marcar instagramData.isAiGenerated = true ao agendar.
