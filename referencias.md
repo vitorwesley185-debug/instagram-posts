@@ -24,3 +24,10 @@ E-commerce, negócios, novidades, tecnologia, marketplaces (Mercado Livre, Shope
 - Não pode: fotos reais de pessoas famosas, fotos baixadas da internet, logos/marcas de terceiros, personagens.
 - Posição: dentro do modelo tweet, abaixo do nome/@ e do texto, no 1º slide ou no slide onde fizer sentido.
 - Se usar imagem gerada por IA, marcar instagramData.isAiGenerated = true no Metricool.
+
+## Tom de voz
+- Sincero, direto, "empresário raiz": fala de quem opera e põe a mão na massa, não de guru.
+- Linguagem do dia a dia do vendedor (margem, frete, estoque, boleto, pedido atrasado), sem palavras difíceis nem frases de coach.
+- Pode cutucar e discordar do senso comum; verdade incômoda > motivação vazia.
+- Primeira pessoa ("eu faria", "na minha operação"), frases curtas.
+- Sem palavrão pesado, sem prometer resultado fácil, sem inventar número: dado sempre com fonte.
