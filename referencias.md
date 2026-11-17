@@ -17,3 +17,10 @@ E-commerce, negócios, novidades, tecnologia, marketplaces (Mercado Livre, Shope
 - Máximo 5 hashtags (limite do Instagram)
 - Calendário: segunda, quarta, quinta e sexta às 10h (America/Sao_Paulo)
 - Plano Free do Metricool: até 20 publicações/mês
+
+## Imagens nos posts
+- Não usar em todos: só quando somar (mais ou menos 1 a cada 2 ou 3 posts), pra variar do 100% texto.
+- Pode: gráficos e números desenhados por código; ilustrações/ícones/telas genéricas feitas por código (SVG/HTML); imagens geradas por IA no Canva (generate-image).
+- Não pode: fotos reais de pessoas famosas, fotos baixadas da internet, logos/marcas de terceiros, personagens.
+- Posição: dentro do modelo tweet, abaixo do nome/@ e do texto, no 1º slide ou no slide onde fizer sentido.
+- Se usar imagem gerada por IA, marcar instagramData.isAiGenerated = true no Metricool.
