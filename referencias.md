@@ -31,3 +31,12 @@ E-commerce, negócios, novidades, tecnologia, marketplaces (Mercado Livre, Shope
 - Pode cutucar e discordar do senso comum; verdade incômoda > motivação vazia.
 - Primeira pessoa ("eu faria", "na minha operação"), frases curtas.
 - Sem palavrão pesado, sem prometer resultado fácil, sem inventar número: dado sempre com fonte.
+
+## Estilo dos posts ilustrados (exemplos enviados pelo Wesley, posts do @thiago.nigro)
+- Mesmo layout tweet: foto + nome + @ no topo, texto curto (1 a 3 frases) com 1 ou 2 palavras em negrito.
+- Abaixo do texto, UM objeto/ilustração grande, centralizado, isolado em fundo branco puro (sem cenário, sem moldura).
+- Estilo foto realista de produto (ex.: cofrinho quebrado com moedas, celular, cesta de pão francês, nota de dinheiro).
+- O objeto ilustra literalmente a frase do slide (frase sobre pão -> pão; sobre dólar -> dinheiro).
+- Imagem em vários slides do mesmo carrossel quando cada slide fala de um objeto diferente.
+- No nosso: objetos genéricos SEM marca/logo visível; não usar cédula real nem capa de jogo/produto de marca.
+- Texto um pouco maior quando o slide tem só 1 frase; imagem ocupando ~40% da altura do slide.
