@@ -12,6 +12,13 @@ Perfis que o Wesley usa como referência de tema e estilo (pesquisar o que estã
 ## Temas
 E-commerce, negócios, novidades, tecnologia, marketplaces (Mercado Livre, Shopee, Amazon, TikTok Shop).
 
+### Assuntos virais fora do nicho (regra do Wesley, 19/11)
+Não ficar 100% travado no nicho. Assuntos que estão em alta demais no Brasil (cultura pop, games, esporte, tecnologia, fatos da semana) podem virar post, carrossel, manchete ou vídeo, desde que o gancho conecte com negócios, vendas, consumo, marketing ou empreendedorismo. Exemplo enviado por ele: o Alfredo Soares postou sobre a Logitech dar folga remunerada para funcionários jogarem GTA VI (matéria da Forbes). Ou seja: pegar o assunto do momento (ex.: GTA VI) e tirar a lição ou o ângulo de negócio (ex.: cultura de empresa, marketing de lançamento, impacto em vendas de games e periféricos, produtividade).
+- Na pesquisa, incluir também os assuntos mais comentados do momento (Brasil), não só e-commerce.
+- Prioridade: o que está bombando e dá para ligar ao mundo do vendedor/empreendedor. Se o assunto não tem ligação nenhuma com negócios, não usar.
+- Valem as mesmas regras: número com fonte confiável, sem inventar, sem repetir o historico.md. Em carrossel e manchete, citar a fonte (ex.: Forbes).
+- Isso vale para o carrossel, a manchete, o Reel de terça e o vídeo de IA do domingo.
+
 ## Regras do post
 - Formato: estilo "tweet", 1080x1350, foto + Wesley Vitor + @wesleyvitor.ecom (carrossel de 6 a 8 slides, ou foto única na quarta)
 - Máximo 5 hashtags (limite do Instagram)
