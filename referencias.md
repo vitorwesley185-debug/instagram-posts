@@ -19,6 +19,14 @@ Não ficar 100% travado no nicho. Assuntos que estão em alta demais no Brasil (
 - Valem as mesmas regras: número com fonte confiável, sem inventar, sem repetir o historico.md. Em carrossel e manchete, citar a fonte (ex.: Forbes).
 - Isso vale para o carrossel, a manchete, o Reel de terça e o vídeo de IA do domingo.
 
+### Posts de prompt de IA (exemplo enviado pelo Wesley em 19/11)
+Formato que viralizou: carrossel estilo tweet do @gut1n (Pedro Augusto, 7 slides) com PROMPTS prontos para colar no Claude/ChatGPT que fazem algo extraordinário (ex.: "Auditoria completa do perfil", em que a IA analisa o Instagram e lista cada erro, do que mais ao que menos prejudica). Chamada para comentar uma palavra-chave ("Comente J13 e te mando todos os prompts") gerou ~900 curtidas, ~880 comentários e mais de 2 mil envios.
+- Considerar esse tipo de conteúdo nas pesquisas de IA: prompts e usos de IA que entregam resultado forte e dá para copiar na hora.
+- Adaptar para o nicho do Wesley (e-commerce e marketplaces): ex.: prompt que audita um anúncio do Mercado Livre, calcula margem e frete, responde reclamação de cliente, analisa concorrente, cria título e descrição, monta plano de promoção.
+- No vídeo de IA do domingo, incluir entre as 5 ideias pelo menos 1 no formato "prompt que faz algo extraordinário": mostrar o prompt funcionando na tela e deixar o prompt completo na legenda ou num carrossel de apoio. Também vale como carrossel (segunda, quinta ou sexta) quando o tema de IA estiver em alta: 1 slide de gancho + 1 slide por prompt, cada prompt escrito completo e copiável.
+- O prompt TEM que funcionar de verdade: testar mentalmente o texto, deixar os campos a preencher entre colchetes (ex.: [seu @], [link do anúncio]) e não prometer resultado garantido.
+- Chamada para comentar uma palavra-chave: só usar se o Wesley puder enviar o material (envio manual ou automação dele). Como não há automação de DM configurada, preferir "comente QUERO" apenas quando ele pedir; por padrão, entregar o prompt na própria legenda/carrossel e pedir para salvar e compartilhar.
+
 ## Regras do post
 - Formato: estilo "tweet", 1080x1350, foto + Wesley Vitor + @wesleyvitor.ecom (carrossel de 6 a 8 slides, ou foto única na quarta)
 - Máximo 5 hashtags (limite do Instagram)
