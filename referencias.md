@@ -19,7 +19,8 @@ E-commerce, negócios, novidades, tecnologia, marketplaces (Mercado Livre, Shope
 - Plano Free do Metricool: até 20 publicações/mês
 
 ## Imagens nos posts
-- Não usar em todos: só quando somar (mais ou menos 1 a cada 2 ou 3 posts), pra variar do 100% texto.
+- Padrão definido pelo Wesley (18/11): usar visual SEMPRE que possível, dosando (sem exagero): em cada carrossel, ~2 a 4 slides com visual e o resto só texto, evitando visuais em slides seguidos demais.
+- Mistura de tipos de visual: (a) ilustração de objeto realista (Canva), (b) gráficos/barras/números desenhados em HTML (como no post de 17/11 de Black Friday), (c) elementos desenhados por código (ícones, comparativos, linhas do tempo). Variar os tipos dentro do mesmo carrossel.
 - Pode: gráficos e números desenhados por código; ilustrações/ícones/telas genéricas feitas por código (SVG/HTML); imagens geradas por IA no Canva (generate-image).
 - Não pode: fotos reais de pessoas famosas, fotos baixadas da internet, logos/marcas de terceiros, personagens.
 - Posição: dentro do modelo tweet, abaixo do nome/@ e do texto, no 1º slide ou no slide onde fizer sentido.
