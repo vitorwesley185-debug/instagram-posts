@@ -13,9 +13,10 @@ Perfis que o Wesley usa como referência de tema e estilo (pesquisar o que estã
 E-commerce, negócios, novidades, tecnologia, marketplaces (Mercado Livre, Shopee, Amazon, TikTok Shop).
 
 ## Regras do post
-- Formato: carrossel estilo "tweet", 1080x1350, foto + Wesley Vitor + @wesleyvitor.ecom
+- Formato: estilo "tweet", 1080x1350, foto + Wesley Vitor + @wesleyvitor.ecom (carrossel de 6 a 8 slides, ou foto única na quarta)
 - Máximo 5 hashtags (limite do Instagram)
-- Calendário: segunda, quarta, quinta e sexta às 10h (America/Sao_Paulo)
+- Calendário (definido pelo Wesley em 18/11): segunda, quinta e sexta = CARROSSEL; quarta = POST DE FOTO ÚNICA. Todos às 10h (America/Sao_Paulo), 4 por semana agendados. O Reel semanal o Wesley posta manualmente (não passa pelo Metricool e não conta no limite de 20/mês).
+- Post de foto única (quarta): UM slide só, mesmo layout tweet (foto + nome + @), sobre o assunto mais quente/viralizado da semana em negócios, empreendedorismo e e-commerce (mesma regra de pauta do carrossel: pesquisar, número com fonte, nunca repetir o historico.md). Em vez de explicar a notícia, dá a opinião em 2 ou 3 frases. Alternar 3 formatos: (1) "Minha leitura": fato + minha leitura, tom empresário raiz; (2) "Número que chocou": dado em destaque + fonte + o que significa pro vendedor; (3) "Pergunta quente": assunto viral virando pergunta pra comentar. De vez em quando um gráfico simples ou ilustração leve (mesmas regras de visual). Legenda curta com 1 pergunta e até 5 hashtags. Gerar com scripts/gerar_tweet.py com 1 slide só e agendar com instagramData type POST e 1 mídia.
 - Plano Free do Metricool: até 20 publicações/mês
 
 ## Imagens nos posts
