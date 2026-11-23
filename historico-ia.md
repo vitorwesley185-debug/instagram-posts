@@ -6,4 +6,5 @@ Já postado antes deste histórico: Reel de 13/11/2026 "Escritório virtual com 
 
 | Data de postagem | Tema | Função do Claude | Gancho | Arquivo |
 |---|---|---|---|---|
+| 2026-11-29 (domingo 11h) | Autópsia da Black Friday: CSV de vendas vira lucro real por produto, painel e plano para Cyber Monday | Upload de CSV + análise de dados + painel (artefato) | "Cyber Monday é amanhã. Pedi pro Claude me dizer o que a Black Friday fez com a minha margem." | ia/2026-11-29-claude-autopsia-black-friday.md |
 | 2026-11-22 (domingo 11h) | Simulador de desconto da Black Friday (custo, comissão, frete, imposto, desconto máximo) | Claude Sheets | "Pedi pro Claude a planilha de desconto da Black Friday. Levou um pedido." | ia/2026-11-22-claude-sheets-desconto-black-friday.md |
